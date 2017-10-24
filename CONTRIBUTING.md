@@ -170,3 +170,7 @@
 - Bio: Computer science student who loves android development
 - Programming Language: C,C++,Java
 
+#### Name: [Han Haechi](https://github.com/hanhaechi)
+- Bio: time traveler learning to code
+- Programming Language: Javascript
+
